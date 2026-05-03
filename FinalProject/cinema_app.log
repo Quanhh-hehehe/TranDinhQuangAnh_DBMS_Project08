@@ -1,0 +1,28 @@
+[2026-05-02 22:09:47,504] INFO: Hệ thống Cinema Management System đang khởi động...
+[2026-05-02 22:27:35,116] INFO: Hệ thống Cinema Management System đang khởi động...
+[2026-05-02 22:27:35,774] INFO: Kết nối Database trong Models thành công.
+[2026-05-03 02:14:34,611] INFO: Tài khoản khách hàng mới được tạo: 'Quang Anh' (ID: 511)
+[2026-05-03 02:15:12,651] WARNING: Lỗi khi Khách hàng 511 đặt vé (Suất 472): 1644 (45000): Lỗi hệ thống khi đặt vé. Vui lòng thử lại!
+[2026-05-03 02:15:12,651] ERROR: Lỗi đặt vé: 1644 (45000): Lỗi hệ thống khi đặt vé. Vui lòng thử lại!
+[2026-05-03 02:15:17,861] WARNING: Lỗi khi Khách hàng 511 đặt vé (Suất 472): 1644 (45000): Lỗi hệ thống khi đặt vé. Vui lòng thử lại!
+[2026-05-03 02:15:17,862] ERROR: Lỗi đặt vé: 1644 (45000): Lỗi hệ thống khi đặt vé. Vui lòng thử lại!
+[2026-05-03 02:15:22,263] INFO: Khách hàng ID 511 vừa đặt thành công Vé ID 511 (Suất 472, Ghế A05)
+[2026-05-03 02:15:22,264] INFO: Khách hàng 'Quang Anh' đã đặt thành công vé ID 511 (Ghế A05, Suất ID 472).
+[2026-05-03 02:15:28,897] INFO: Khách hàng 'Quang Anh' đã đăng xuất.
+[2026-05-03 02:15:34,612] WARNING: CẢNH BÁO BẢO MẬT: Có người cố gắng đăng nhập sai mật khẩu Quản lý với tài khoản 'admin'
+[2026-05-03 02:15:38,687] WARNING: CẢNH BÁO BẢO MẬT: Có người cố gắng đăng nhập sai mật khẩu Quản lý với tài khoản 'admin'
+[2026-05-03 02:15:43,754] WARNING: CẢNH BÁO BẢO MẬT: Có người cố gắng đăng nhập sai mật khẩu Quản lý với tài khoản 'clerk'
+[2026-05-03 02:15:48,956] INFO: Quản lý/Nhân viên 'admin' (Manager) đã đăng nhập hệ thống.
+[2026-05-03 02:19:39,513] INFO: ADMIN ACTION: Đã thêm phim mới 'SUPERMAN: NEW HOME' (Action, 150 phút).
+[2026-05-03 02:19:57,707] INFO: ADMIN ACTION: Đã cập nhật phim ID 511 thành 'SUPERMAN: NEW HOME'.
+[2026-05-03 02:20:19,040] WARNING: ADMIN ACTION: Đã xóa phim 'Total fresh-thinking focus group' (ID: 6) khỏi hệ thống.
+[2026-05-03 02:20:50,571] INFO: ADMIN ACTION: Đã thêm phòng chiếu mới 'ROYAL ONE' (15 hàng x 15 cột).
+[2026-05-03 02:21:26,141] INFO: ADMIN ACTION: Đã xếp lịch chiếu phim 'SUPERMAN: NEW HOME' tại phòng 'ROYAL ONE' lúc 20:00 ngày 2026-08-15.
+[2026-05-03 02:22:06,319] INFO: Quản lý/Nhân viên 'admin' đã đăng xuất.
+[2026-05-03 02:22:15,527] WARNING: Đăng nhập thất bại: Khách hàng 'Quang Anh' nhập sai mật khẩu.
+[2026-05-03 02:22:16,505] WARNING: Đăng nhập thất bại: Khách hàng 'Quang Anh' nhập sai mật khẩu.
+[2026-05-03 02:22:20,044] INFO: Khách hàng 'Quang Anh' đăng nhập thành công.
+[2026-05-03 02:22:41,847] WARNING: Lỗi khi Khách hàng 511 đặt vé (Suất 511): 1644 (45000): Lỗi hệ thống khi đặt vé. Vui lòng thử lại!
+[2026-05-03 02:22:41,848] ERROR: Lỗi đặt vé: 1644 (45000): Lỗi hệ thống khi đặt vé. Vui lòng thử lại!
+[2026-05-03 02:22:46,804] INFO: Khách hàng ID 511 vừa đặt thành công Vé ID 512 (Suất 511, Ghế F07)
+[2026-05-03 02:22:46,804] INFO: Khách hàng 'Quang Anh' đã đặt thành công vé ID 512 (Ghế F07, Suất ID 511).
